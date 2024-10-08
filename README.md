@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avotraina
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python, JavaScript and .NET
+- 🌱 I’m currently an Angular developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
